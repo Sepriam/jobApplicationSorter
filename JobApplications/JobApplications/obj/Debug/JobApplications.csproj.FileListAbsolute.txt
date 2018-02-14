@@ -1,7 +1,0 @@
-C:\Users\Matt\Documents\Visual Studio 2017\Projects\JobApplications\JobApplications\bin\Debug\JobApplications.exe.config
-C:\Users\Matt\Documents\Visual Studio 2017\Projects\JobApplications\JobApplications\bin\Debug\JobApplications.exe
-C:\Users\Matt\Documents\Visual Studio 2017\Projects\JobApplications\JobApplications\bin\Debug\JobApplications.pdb
-C:\Users\Matt\Documents\Visual Studio 2017\Projects\JobApplications\JobApplications\obj\Debug\JobApplications.csprojResolveAssemblyReference.cache
-C:\Users\Matt\Documents\Visual Studio 2017\Projects\JobApplications\JobApplications\obj\Debug\JobApplications.csproj.CoreCompileInputs.cache
-C:\Users\Matt\Documents\Visual Studio 2017\Projects\JobApplications\JobApplications\obj\Debug\JobApplications.exe
-C:\Users\Matt\Documents\Visual Studio 2017\Projects\JobApplications\JobApplications\obj\Debug\JobApplications.pdb
